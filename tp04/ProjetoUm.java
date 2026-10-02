@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class ProjetoUm{
     public static void main (String[] args){
         Scanner sc = new Scanner (System.in);
@@ -11,7 +13,7 @@ public class ProjetoUm{
         System.out.println("negativo");
        }
        else{
-        System.out.println("posirtivo");
+        System.out.println("positivo");
        }
     }   
 
